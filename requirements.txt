@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+torch
+openpyxl
+matplotlib-inline
+colorcet
+umap-learn
+tqdm
+# ray
+# ray[train]
+# ray[test]
